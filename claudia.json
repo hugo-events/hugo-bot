@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "hugo-bot-executor",
+    "name": "hugo-bot",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "xbtlxq4lle",
+    "module": "bot"
+  }
+}
